@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 📫 How to reach me: Reach me via [LinkedIn], [Instagram] or directly via E-Mail aleksandar@kostadinovski.info
 ## Languages and Tools:
 
 <p align="left">
@@ -12,7 +12,6 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/> </a>
     <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="40" height="40"/> </a>
 </p>
-
 
 [Instagram]: https://instagram.com/acika00mk
 [LinkedIn]: https://www.linkedin.com/in/acika00mk/
