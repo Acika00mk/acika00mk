@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📫 How to reach me: Reach me via [LinkedIn], [Instagram] or directly via E-Mail aleksandar@kostadinovski.info
 
-![acika00mk's github stats](https://github-readme-stats.vercel.app/api?username=acika00mk&show_icons=true&hide_border=true)
+
 
 ## Languages and Tools:
 
@@ -20,6 +20,9 @@
 [LinkedIn]: https://www.linkedin.com/in/acika00mk/
 
 <!--
+
+![acika00mk's github stats](https://github-readme-stats.vercel.app/api?username=acika00mk&show_icons=true&hide_border=true)
+
 **Acika00mk/acika00mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
