@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: Reach me via [LinkedIn], [Instagram] or directly via E-Mail aleksandar@kostadinovski.info
+- 📫 How to reach me: Reach me via [LinkedIn] or directly via E-Mail aleksandar@kostadinovski.info
 
 
 
