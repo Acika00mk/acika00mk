@@ -1,5 +1,8 @@
 ### Hi there 👋
 - 📫 How to reach me: Reach me via [LinkedIn], [Instagram] or directly via E-Mail aleksandar@kostadinovski.info
+
+![acika00mk's github stats](https://github-readme-stats.vercel.app/api?username=acika00mk&show_icons=true&hide_border=true)
+
 ## Languages and Tools:
 
 <p align="left">
